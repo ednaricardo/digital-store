@@ -1,36 +1,22 @@
-# Node.js
+# Node
 node_modules/
-.env
-.env.local
+npm-debug.log*
 
-# Vite
+# Build
 dist/
 .vite/
 
-# Editor / sistema operacional
+# Ambiente
+.env
+.env.*
+
+# Sistema
 .DS_Store
 Thumbs.db
 
-# VS Code settings
+# Editor
 .vscode/
-*.code-workspace
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# IDEs
 .idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
 
-# Mac system
-*.DS_Store
-
-*.sln
-*.sw?
+# json-server (opcional)
+db.json
