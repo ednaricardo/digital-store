@@ -1,11 +1,36 @@
-# React + Vite
+# 🛍️ Drip Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Loja virtual de streetwear desenvolvida com **React + Vite**, baseada no layout do Figma da Digital College.
 
-Currently, two official plugins are available:
+![Banner](public/home-slide-1.jpeg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Tecnologias utilizadas
+
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [json-server](https://github.com/typicode/json-server) *(opcional para simular API)*
+
+---
+
+## 🎨 Layout
+
+O design foi baseado neste Figma:  
+[🔗 DRIP STORE - Digital College](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30&p=f)
+
+---
+
+## 🖥️ Como rodar o projeto
+
+### 1. Clone o repositório:
+
+```bash
+git clone https://github.com/ednaricardo/digital-store.git
+cd digital-store
+
 
 ## Expanding the ESLint configuration
 
